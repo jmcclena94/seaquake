@@ -1,0 +1,2 @@
+# seaquake
+An earthquake visualizer
