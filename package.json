@@ -1,0 +1,22 @@
+{
+  "name": "seaquake",
+  "version": "1.0.0",
+  "description": "An earthquake visualizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmcclena94/seaquake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmcclena94/seaquake/issues"
+  },
+  "homepage": "https://github.com/jmcclena94/seaquake#readme",
+  "devDependencies": {
+    "bower": "^1.8.0"
+  }
+}

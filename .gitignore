@@ -1,5 +1,6 @@
 # react
 node_modules/
+project/static/bower_components
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
