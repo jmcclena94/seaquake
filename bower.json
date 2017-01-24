@@ -1,0 +1,21 @@
+{
+  "name": "seaquake",
+  "description": "An earthquake visualizer",
+  "main": "index.js",
+  "authors": [
+    "Joseph McClenahan <jmcclena94@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jmcclena94/seaquake",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.4.2",
+    "bootstrap": "^3.3.7"
+  }
+}
